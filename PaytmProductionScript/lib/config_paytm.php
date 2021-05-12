@@ -4,7 +4,7 @@
 - Change the value of PAYTM_MERCHANT_KEY constant with details received from Paytm.
 - Change the value of PAYTM_MERCHANT_MID constant with details received from Paytm.
 - Change the value of PAYTM_MERCHANT_WEBSITE constant with details received from Paytm.
-- Above details will be different for testing and production environment.
+
 */
 
 define('PAYTM_ENVIRONMENT', 'PROD'); // PROD
